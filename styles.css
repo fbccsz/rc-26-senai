@@ -136,7 +136,7 @@ main {
     text-decoration: none;
 }
 
-#faq li a:hover {
+#faq li a:hover  {
     text-decoration: underline;
 }
 
@@ -278,3 +278,19 @@ footer {
 .text{
     text-align: center;
     }
+button {
+    background-color: transparent;
+    border: none;
+    color: #3498db;
+    font-size: 18px;  /* Aumenta o tamanho da fonte */
+    cursor: pointer;
+    padding: 10px 15px;
+    text-align: left;
+}
+
+button:hover {
+    color: #2980b9;
+}
+.h3{
+    text-align: center;
+}
